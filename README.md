@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Saif</h1>
-<p align="center"><strong>IT Development &amp; Operations Intern | Web &amp; iOS | Security Tooling</strong></p>
+<p align="center"><strong>IT Development &amp; Operations Intern | APIs &amp; Automation | App Development</strong></p>
 <picture>
   <img src="assets/divider.png" width="100%" height="3" alt="">
 </picture>
