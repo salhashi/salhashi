@@ -6,9 +6,9 @@ I built the SwiftUI interface and designed the exercise and performance data mod
 
 **Stack** · Swift, SwiftUI, Firebase
 
-## Design concepts
+## Design
 
-Three proposed screens for the next version of Athlyst.
+
 
 <p>
   <img src="../assets/athlyst-check-in.png" alt="Daily check-in concept with options to log a workout or a recovery day" width="230">
