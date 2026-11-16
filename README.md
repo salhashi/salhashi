@@ -18,7 +18,7 @@ I’m studying computer science at Western University with a minor in software e
 
 - **[Sentinel](projects/sentinel.md)** · Model-serving API and live dashboard for network intrusion detection.
 - **[Athlyst](projects/athlyst.md)** · Native iOS app for logging workouts, planning training, and tracking progress.
-- **[Folio](https://github.com/salhashi/folio-showcase)** · Lecture notebook with local Whisper transcription and notes linked to slides and audio.
+- **[LazyLec](https://github.com/salhashi/lazylec-showcase)** · Lecture notebook with local Whisper transcription and notes linked to slides and audio.
 - **[Internshipinator](https://github.com/salhashi/internshipinator-showcase)** · Python tool that turns saved job postings into tailored résumé and cover-letter drafts.
 - **[Technical Interview Platform](https://github.com/Western-CSUS-2025-2026/CSUS-Project-25-26)** · Built interview session flows and in-browser recording with Western’s Computer Science Undergraduate Society.
 
